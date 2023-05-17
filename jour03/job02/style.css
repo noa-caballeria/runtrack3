@@ -1,0 +1,17 @@
+#imageContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+#imageContainer img {
+    width: 150px;
+    height: 150px;
+    margin: 5px;
+}
+
+#message {
+    font-weight: bold;
+    margin-top: 10px;
+}
